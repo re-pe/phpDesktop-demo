@@ -31,7 +31,7 @@
     },
     "web_server": {
         "listen_on": ["127.0.0.1", 0],
-        "www_directory": "_apps/ace/www",
+        "www_directory": "_apps/Ace/www",
         "index_files": ["index.php", "index.html"],
         "cgi_interpreter": "php/php-cgi.exe",
         "cgi_extensions": ["php"],
